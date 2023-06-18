@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 import openai
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 # Authenticate with GitHub API using a personal access token
 g = Github("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")
 
